@@ -1,3 +1,0 @@
-
----Downloaded files---
-An error occurred while fetching file from: <strong>http://divergent.wp4life.com/demo/demo.xml</strong>!<br>Reason: http_request_failed - cURL error 6: Could not resolve host: divergent.wp4life.com.<br>
