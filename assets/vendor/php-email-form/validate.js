@@ -76,10 +76,15 @@
     });
   }
 
-  function displayError(thisForm, error) {
-    thisForm.querySelector('.loading').classList.remove('d-block');
-    thisForm.querySelector('.error-message').innerHTML = error;
-    thisForm.querySelector('.error-message').classList.add('d-block');
-  }
+    const form = document.getElementById('my_form');
+
+form.addEventListener('submit', function handleSubmit(event) {
+  event.preventDefault();
+
+  // 👇️ Send data to server here
+
+  // 👇️ Reset form here
+  form.reset();
+});
 
 })();
