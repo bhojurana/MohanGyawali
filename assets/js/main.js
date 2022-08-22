@@ -1,9 +1,10 @@
 /**
-* Template Name: iPortfolio - v3.8.1
-* Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-* Author: BootstrapMade.com
+* Template Name: Mohan Gyawali
+* Template URL: https://mohangyawali.com.np
+* Author: Mohan Gyawali
 * License: https://bootstrapmade.com/license/
 */
+
 (function() {
   "use strict";
 
